@@ -1,0 +1,23 @@
+{
+  "name": "messenger_node_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-demo.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themisis/Messenger.git"
+  },
+  "author": "Themisis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themisis/Messenger/issues"
+  },
+  "homepage": "https://github.com/themisis/Messenger#readme"
+}
